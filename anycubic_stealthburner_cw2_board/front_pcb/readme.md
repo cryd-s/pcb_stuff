@@ -1,3 +1,5 @@
+![Front_pcb.jpg](Front_pcb.jpg)
+
 | Item | Qty |
 | :------------: |----:| 
 | SMAF_L3.5-W2.6 | 1 ||
