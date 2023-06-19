@@ -1,3 +1,5 @@
+![Body_PCB.jpg](Body_PCB.jpg)
+
 | Item | Qty |
 | :------------: |----:| 
 | XH-5A          | 1 |
