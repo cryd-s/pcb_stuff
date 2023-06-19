@@ -1,4 +1,4 @@
-![Front_pcb.jpg](Front_pcb.jpg)
+![Front_PCB.jpg](Front_PCB.jpg)
 
 | Item | Qty |
 | :------------: |----:| 
