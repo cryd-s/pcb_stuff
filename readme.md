@@ -6,5 +6,5 @@ Links:
 
 [https://aliexpress.com/item/1005004281432549.html](https://s.click.aliexpress.com/e/_DeMJROv)
 
-[https://aliexpress.com/item/1005004159688818.html](https://s.click.aliexpress.com/e/_DenmMct)https://s.click.aliexpress.com/e/_DenmMct
+[https://aliexpress.com/item/1005004159688818.html](https://s.click.aliexpress.com/e/_DenmMct)
 
